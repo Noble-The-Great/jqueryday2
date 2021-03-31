@@ -1,0 +1,43 @@
+
+h1 {}
+hr {width:60px; float: left;}
+
+#clickme {
+
+
+	 clear:both ;border: 2px solid black; width: 150px; padding: 10px;
+}
+
+
+.darkmode {color:white; background-color: rgba(0,0,0,0.5);}
+
+
+
+
+.instock, .notinstock {
+    clear: both;
+	padding: 5px;
+	margin: 5px 0;
+	font-family: Helvetica;
+	border:10px solid rgba(0,0,0,0.25);
+	
+
+
+}
+
+
+.instock {
+	
+	background-color: rgba();
+	display: flex; justify-content: space-between;
+}
+
+.instock p {
+
+	color: black; width: 33%;
+	
+}
+ 
+.darkmode p{
+	color: white;
+}
